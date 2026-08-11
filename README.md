@@ -2,7 +2,7 @@
 
 A single-file personal portfolio for **Nehal Aftab** — Frontend Developer, UI/UX Designer, and Canva Campus Ambassador at FAST-NUCES Chiniot-Faisalabad. Built as a "contact sheet": every project is presented like a numbered frame on a photographer's proof sheet, rather than another templated card grid.
 
-**Live site:** 
+**Live site:** https://my-portfolio-6hpt-bk7v8wagt-nehal-aftab.vercel.app/
 
 ---
 
